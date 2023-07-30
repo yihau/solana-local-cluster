@@ -4,6 +4,15 @@ A step-by-step guide for starting a local cluster.
 
 ## Get Started
 
+I will use docker to simulate environments in this reposotory. You definitely can use real machines to do it. Just remember to replace these IPs to yours
+
+https://github.com/yihau/solana-local-cluster/blob/1554bc3b40e451c44dea78e2c1db8a6586ea4b4a/workspace/bootstrap-validator.sh#L11
+
+https://github.com/yihau/solana-local-cluster/blob/1554bc3b40e451c44dea78e2c1db8a6586ea4b4a/workspace/prepare-new-validator-keys.sh#L12-L15
+
+https://github.com/yihau/solana-local-cluster/blob/1554bc3b40e451c44dea78e2c1db8a6586ea4b4a/workspace/validator.sh#L7-L8
+
+
 ### Prequest
 
 #### setup
