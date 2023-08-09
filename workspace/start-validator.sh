@@ -2,4 +2,4 @@
 
 ./prepare-new-validator-keys.sh
 
-./start-validator.sh
+./validator.sh
